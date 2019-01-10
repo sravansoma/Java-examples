@@ -1,3 +1,5 @@
+package com.Hobbits;
+
 public class Hobbits{
     String name;
     public static void main(String[] args){
