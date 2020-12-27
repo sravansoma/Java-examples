@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author srasoma
+ *
+ */
+module test {
+}
